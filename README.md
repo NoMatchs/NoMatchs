@@ -3,7 +3,7 @@
 I'm a developer passionate about Python & Rust.
 
 ## 🛠️ Tech Stack
-![Static Badge](https://img.shields.io/badge/C%2B%2B-supported-blue)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-supported-blue?logoSize=20)
 ![Rust](https://img.shields.io/badge/Rust-Stable-orange?logo=rust&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-2.40-red?logo=git&style=for-the-badge)
 
