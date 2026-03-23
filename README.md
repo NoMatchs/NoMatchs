@@ -1,17 +1,34 @@
-# 👋 Hi, I'm NoMatchs!
+<div align="center">
+  <img src="C:\Users\NoMatch\Pictures" width="100%" alt="Banner"/>
+</div>
 
-I'm a developer passionate about Python & Rust.
+<h1 align="center">Hi 👋, I'm NoMatch</h1>
+<h3 align="center">A passionate C++ Developer</h3>
 
-## 🛠️ Tech Stack
-![Static Badge](https://img.shields.io/badge/C%2B%2B-supported-blue?logoSize=20)
+- 🔭 I’m currently working on **Growing**
+- 🌱 I’m currently learning **C++\Pyhon\SCM\DATABASE\Algorithm\Computer networks**
+- 💬 Ask me about **Math**
+- 📫 How to reach me: **3117891749@qq.com**
+- ⚡ Fun fact: **Running**
 
-## 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoMatchs&show_icons=true&theme=radical)
+- <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+</p>
 
-## 🌟 Featured Projects
-- [NoMatch_A](https://github.com/NoMatchs/NoMatch_A) - A practice repo for Git flow
-- [godot_01](https://github.com/NoMatchs/godot_01) - Game dev with Godot
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical&hide_border=true" alt="streak" />
+</p>
 
-## 📬 Contact Me
-[![Email](https://img.shields.io/badge/Email-me-red?logo=gmail)](mailto:you@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%40you-blue?logo=twitter)](https://twitter.com/you)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical&hide_border=true" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&bg_color=141321&color=ffffff&line=fc46a6&point=403d3d&area=true&hide_border=true" alt="activity graph" />
+</p>
