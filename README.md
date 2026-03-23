@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="C:\Users\NoMatch\Pictures" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/NoMatchs/NoMatchs/main/banner.png" width="100%" alt="Banner"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm NoMatch</h1>
@@ -38,8 +38,4 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Open%20Source%20Enthusiast;Lover%20of%20Python%20&%20React;Always%20Learning%20New%20Tech&center=true&width=600&height=80&color=ff6e96&background=1e1e2e&vCenter=true&size=24" alt="Typing SVG" />
 </p>
 
-<!-- 贪吃蛇贡献图（适配dracula主题） -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoMatchs&theme=dracula" alt="profile-details" />
-  <img src="https://github-readme-snake.github.io/github-readme-snake-contrib/github-contribution-grid-snake.svg?username=NoMatchs&color=ff6e96&bg=1e1e2e" alt="snake" />
-</p>
+
