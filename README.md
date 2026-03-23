@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm NoMatchs!
 
-<!--
-**NoMatchs/NoMatchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about Python & Rust.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-Stable-orange?logo=rust&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-2.40-red?logo=git&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoMatchs&show_icons=true&theme=radical)
+
+## 🌟 Featured Projects
+- [NoMatch_A](https://github.com/NoMatchs/NoMatch_A) - A practice repo for Git flow
+- [godot_01](https://github.com/NoMatchs/godot_01) - Game dev with Godot
+
+## 📬 Contact Me
+[![Email](https://img.shields.io/badge/Email-me-red?logo=gmail)](mailto:you@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40you-blue?logo=twitter)](https://twitter.com/you)
