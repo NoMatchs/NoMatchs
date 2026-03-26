@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NoMatchs/NoMatchs/main/banner.png" width="100%" alt="Banner"/>
-</div>
 
 <h1 align="center">Hi 👋, I'm NoMatch</h1>
 <h3 align="center">A passionate C++ Developer</h3>
