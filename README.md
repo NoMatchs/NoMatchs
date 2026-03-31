@@ -10,18 +10,9 @@
 
 - <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="HTML"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NoMatchs&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NoMatchs&theme=radical&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoMatchs&layout=compact&theme=radical&hide_border=true" alt="top langs" />
+  <img src="https://img.shields.io/badge/Language-C++-blue" alt="C++">
+  <img src="https://img.shields.io/badge/Language-HTML-orange" alt="HTML">
+  <img src="https://img.shields.io/badge/Tool-Git-red" alt="Git">
 </p>
 
 <p align="center">
