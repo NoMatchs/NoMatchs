@@ -15,9 +15,7 @@
   <img src="https://img.shields.io/badge/Tool-Git-red" alt="Git">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoMatchs&bg_color=141321&color=ffffff&line=fc46a6&point=403d3d&area=true&hide_border=true" alt="activity graph" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Xia+Xia+quick+look+me." alt="Typing SVG" /></a>
 
 <!-- 动态打字机文字（适配dracula主题） -->
 <p align="center">
