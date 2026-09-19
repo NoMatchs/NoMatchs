@@ -20,9 +20,3 @@
 <!-- 动态打字机文字（适配dracula主题） -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Open%20Source%20Enthusiast;Lover%20of%20Python%20&%20React;Always%20Learning%20New%20Tech&center=true&width=600&height=80&color=ff6e96&background=1e1e2e&vCenter=true&size=24" alt="Typing SVG" />
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
