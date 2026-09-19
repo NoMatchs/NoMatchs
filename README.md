@@ -21,4 +21,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Open%20Source%20Enthusiast;Lover%20of%20Python%20&%20React;Always%20Learning%20New%20Tech&center=true&width=600&height=80&color=ff6e96&background=1e1e2e&vCenter=true&size=24" alt="Typing SVG" />
 ![GitHub Snake Light](https://raw.githubusercontent.com/NoMatchs/NoMatchs/output/github-snake.svg#gh-light-mode-only)
+  
 ![GitHub Snake Dark](https://raw.githubusercontent.com/NoMatchs/NoMatchs/output/github-snake-dark.svg#gh-dark-mode-only)
